@@ -8,7 +8,7 @@ Templates 中包含文件模板（File Templates）和工程模板（Project Tem
 
 ### iOS开发系统模板位置
 
->/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/File Templates/Source/xxx..xctemplate
+>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/xxx..xctemplate
 
 ### MacOSX的系统文件模板位置
 

@@ -1,7 +1,7 @@
 //
-//  Created by zzgo on 16/8/22.
-// 	Contact by zzgoCC@gmail.com
-//  Copyright © 2016年 ibireme. All rights reserved.
+//  Created by ZenonHuang on ___DATE___.
+// 	Contact by zzgocc@gmail.com
+//  ___COPYRIGHT___.
 //
 
 #import "___FILEBASENAME___.h"
